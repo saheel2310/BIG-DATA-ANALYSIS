@@ -1,5 +1,5 @@
 # BIG-DATA-ANALYSIS
-# Iowa Liquor Sales Analysis with PySpark
+# Liquor Sales Analysis with PySpark
 
 This project analyzes the Iowa Liquor Sales dataset using PySpark to demonstrate scalability and big data processing techniques.  It includes data cleaning, transformation, aggregation, visualization, and a scalability test using synthetic data.
 
